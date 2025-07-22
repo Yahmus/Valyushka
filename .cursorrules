@@ -30,7 +30,18 @@ Personal Workspace/
     │   ├── Projects/         # Renovations, improvements
     │   ├── Maintenance/      # Schedules, tasks
     │   └── Tech/             # Devices, smart home
-    └── My Company Example/   # Example business structure template
+    ├── My Company Example/   # Example business structure template
+    └── Work/                   # Рабочие документы и глоссарии
+        ├── role.md             # Должностные обязанности
+        ├── glossary.md         # Глоссарий терминов
+        ├── Водоснабжение/      # Документы по водоснабжению
+        │   └── Постановление_Правительства_РФ_от_27_12_2004_N_861_ред_от.txt
+        ├── Теплоснабжение/     # Документы по теплоснабжению
+        │   ├── Постановление_Правительства_РФ_от_30_11_2021_N_2115_Правила_техприса.txt
+        │   ├── Приказ_Минэнерго_России_от_24_03_2003_N_115_Правила_эксплуатации.txt
+        │   └── СНиП 41-02-2003. Тепловые сети.txt
+        └── Электроснабжение/   # Документы по электроснабжению
+            └── Постановление_Правительства_РФ_от_30_11_2021_N_2130_ред_от.txt
 ```
 
 ## 🚨 CRITICAL RULE: Number Range Validation
