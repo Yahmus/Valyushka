@@ -3,34 +3,31 @@
 > **📝 File Purpose**: This file contains AI assistant rules for personal workspace management and organization.
 
 ## Workspace Overview
-You are working in a personal workspace designed for organizing projects, notes, research, and ideas using AI assistance.
+Вы работаете в персональном рабочем пространстве для организации проектов, заметок, исследований и идей с помощью AI-ассистента.
 
 ## Current Workspace Structure
 ```
-Personal Workspace/
+Valyushka/
 ├── .cursorrules              # AI assistant configuration (this file)
 ├── README.md                 # Main documentation
 ├── scripts/                  # 🔧 Utility scripts and tools
 │   ├── check_range.py        # Number range validation script
 │   └── README.md             # Scripts documentation
 └── Docs/                     # Personal documentation
-    ├── Health/               # 🏥 Health tracking & medical records
-    │   ├── Medical-Records/  # Tests, checkups, prescriptions
-    │   ├── Fitness/          # Workouts, progress tracking
-    │   └── Goals/            # Health objectives
-    ├── Finance/              # 💰 Personal finance management
-    │   ├── Budget/           # Monthly budgets, expenses
-    │   ├── Investments/      # Portfolio, stocks, crypto
-    │   └── Goals/            # Financial objectives
-    ├── Learning/             # 🎓 Education & skill development
-    │   ├── Courses/          # Online courses, notes
-    │   ├── Books/            # Reading lists, summaries
-    │   └── Skills/           # Skills practice, progress
-    ├── Home/                 # 🏠 Home management
-    │   ├── Projects/         # Renovations, improvements
-    │   ├── Maintenance/      # Schedules, tasks
-    │   └── Tech/             # Devices, smart home
-    └── My Company Example/   # Example business structure template
+    └── Work/                 # Work-related documents
+        ├── glossary.md
+        ├── role.md
+        ├── Водоснабжение/
+        │   ├── Постановление_Правительства_РФ_от_30_11_2021_N_2130_ред_от.txt
+        │   └── План_техприса_МКД_водоснабжение.md
+        ├── Теплоснабжение/
+        │   ├── Постановление_Правительства_РФ_от_30_11_2021_N_2115_Правила_техприса.txt
+        │   ├── Приказ_Минэнерго_России_от_24_03_2003_N_115_Правила_эксплуатации.txt
+        │   ├── СНиП 41-02-2003. Тепловые сети.txt
+        │   └── План_техприса_МКД_теплоснабжение.md
+        └── Электроснабжение/
+            ├── Постановление_Правительства_РФ_от_27_12_2004_N_861_ред_от.txt
+            └── План_техприса_МКД_электричество.md
 ```
 
 ## 🚨 CRITICAL RULE: Number Range Validation
